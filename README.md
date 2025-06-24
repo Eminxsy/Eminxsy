@@ -36,12 +36,13 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 
 ![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminxsy&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
----
+--- 
+<!--
 
 ## 📫 Let's Connect
 
 - LinkedIn: [linkedin.com/in/emin](https://linkedin.com/in/emin) *(varsa)*
-<!-- - Portfolio / Site: [emin.dev](https://emin.dev) *(varsa)* -->
+ - Portfolio / Site: [emin.dev](https://emin.dev) *(varsa)*  -->
 
 ---
 
