@@ -1,5 +1,6 @@
-## Hi there 👋
-
+# Hello, I am Emin. 👋
+- 🌱 I'm currently working on C++ and JavaScript. 
+- 🔭 Currently Working On: Veloria | CRM for Insurance Companies
 <!--
 **Eminxsy/Eminxsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
