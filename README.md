@@ -6,7 +6,7 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 ---
 
 ## 🧠 About Me
-- 🔭 I'm currently working on: **Veloria** – CRM for insurance
+- 🔭 I'm currently working on: **Veloria**, a CRM tool tailored for insurance companies
 - 🌱 I'm learning the fundamentals of **C++** and **JavaScript**
 - 🎯 My goal: Build solid backend logic and dynamic web interfaces
 - 📍 Based in Ankara, Türkiye
@@ -22,7 +22,7 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 ### 🛠 Tools & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-Exploring-green?style=flat-square&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Basic-blue?style=flat-square&logo=mysql)
-![Express.js](https://img.shields.io/badge/Express.js-Starting-black?style=flat-square&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-Intermediate-black?style=flat-square&logo=express)
 
 ### 🧩 Others
 ![Git](https://img.shields.io/badge/Git-Intermediate-orange?style=flat-square&logo=git)
