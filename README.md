@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Emin
+# Welcome! 
 
 I'm an aspiring developer exploring the world of **C++** and **JavaScript**.  
 Currently working on my first full-stack project, **Veloria**, a CRM tool tailored for insurance companies.
@@ -22,11 +22,12 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 ### 🛠 Tools & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-Exploring-green?style=flat-square&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Basic-blue?style=flat-square&logo=mysql)
-![Express.js](https://img.shields.io/badge/Express.js-Intermediate-black?style=flat-square&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-Starting-black?style=flat-square&logo=express)
 
-### 🧩 Others
-![Git](https://img.shields.io/badge/Git-Intermediate-orange?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-Preferred-blue?style=flat-square&logo=visual-studio-code)
+### 🧩 IDE & Tools
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-C++%20Preferred-blueviolet?style=flat-square&logo=visual-studio)
+![VS Code](https://img.shields.io/badge/VS%20Code-JS%20%26%20Web%20Dev%20Preferred-blue?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange?style=flat-square&logo=git) 
 
 ---
 
