@@ -33,11 +33,8 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 
 ## 📈 GitHub Stats
 
-> (Bu alan profilin doldukça daha anlamlı görünür ama şu an bile sade bir tema ile eklemek *absürt durmaz*, aksine "başlangıçtayım ama özenliyim" izlenimi verir.)
-
 ![Emin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eminxsy&show_icons=true&theme=tokyonight&hide=contribs,prs)
 
---- 
 <!--
 
 ## 📫 Let's Connect
