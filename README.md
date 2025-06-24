@@ -20,9 +20,9 @@ Currently working on my first full-stack project, **Veloria**, a CRM tool tailor
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow?style=flat-square&logo=javascript)
 
 ### 🛠 Tools & Frameworks
-![Node.js](https://img.shields.io/badge/Node.js-Exploring-green?style=flat-square&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?style=flat-square&logo=node.js)
 ![MySQL](https://img.shields.io/badge/MySQL-Basic-blue?style=flat-square&logo=mysql)
-![Express.js](https://img.shields.io/badge/Express.js-Starting-black?style=flat-square&logo=express)
+![Express.js](https://img.shields.io/badge/Basic-black?style=flat-square&logo=express)
 
 ### 🧩 IDE & Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-C++%20Preferred-blueviolet?style=flat-square&logo=visual-studio)
